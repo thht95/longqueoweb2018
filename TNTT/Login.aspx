@@ -83,7 +83,7 @@
         <div class="content">
             <table class="auto-style2"> 
                 <tr>
-                    <td class="auto-style8">Tên đăng nhập</td>
+                    <td class="auto-style8">Tên đăng nhập: </td>
                     <td class="auto-style3">
                         <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
                     </td>
@@ -92,7 +92,7 @@
                 <tr>
                     <td class="auto-style8">Mật khẩu: </td>
                     <td class="auto-style3">
-                        <asp:TextBox ID="TextBox2" runat="server"  TextMode="Password"></asp:TextBox>
+                        <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
                     </td>
                     <td class="auto-style4">&nbsp;</td>
                 </tr>
