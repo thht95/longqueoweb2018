@@ -90,9 +90,9 @@
                     <td class="auto-style4">&nbsp;</td>
                 </tr>
                 <tr>
-                    <td class="auto-style8">Mật khẩu</td>
+                    <td class="auto-style8">Mật khẩu: </td>
                     <td class="auto-style3">
-                        <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
+                        <asp:TextBox ID="TextBox2" runat="server"  TextMode="Password"></asp:TextBox>
                     </td>
                     <td class="auto-style4">&nbsp;</td>
                 </tr>
